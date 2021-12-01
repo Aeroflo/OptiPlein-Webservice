@@ -15,7 +15,7 @@ import java.util.List;
 
 public class GouvPOSServicesUtils {
 
-    protected static final String LOCAL_FOLDER = "C:\\Users\\Flo\\Documents\\petrolPDVs\\";
+    protected static final String LOCAL_FOLDER = "";
     protected static final String XML_FILE_PREFIX ="PrixCarburants_quotidien_";
 
     protected enum FileType{
