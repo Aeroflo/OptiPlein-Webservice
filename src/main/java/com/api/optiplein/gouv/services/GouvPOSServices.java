@@ -25,7 +25,7 @@ import java.util.zip.ZipInputStream;
 @Service
 public class GouvPOSServices {
 
-    private static final String ENDPOINT = "https://donnees.roulez-eco.fr/";
+    private static final String ENDPOINT = "";
     private static final int CONNECTION_TIMEOUT = 5000;
     private static final int DEFAULT_BUFFER_SIZE = 8192;
 
